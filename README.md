@@ -8,7 +8,11 @@
 
 # Datos del equipo  
 
-# Nombre del dispositivo: LAPTOP-9DM4Q23O 
+<table>
+<tr> 
+<td>Nombre del dispositivo:</td>
+<td>LAPTOP-9DM4Q23O</td>
+</table>
 
 # Procesador: AMD Ryzen 3 5300U with Radeon Graphics, 2.60 GHz
 
