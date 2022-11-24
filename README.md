@@ -13,13 +13,24 @@
 <td>Nombre del dispositivo:</td>
 <td>LAPTOP-9DM4Q23O</td>
 </table>
-
-# Procesador: AMD Ryzen 3 5300U with Radeon Graphics, 2.60 GHz
-
-# RAM instalada: 8,00 GB (5,86 GB usable) 
-
-# Identificador del dispositivo: 1D259B27-7E03-44AF-BB4D-98D850BBFAF5
-
-# Id del producto: 00327-31101-36014-AAOEM 
-
-# Tipo de sistema: Sistema operativo de 64 bits, procesador basado en x64 
+<tr> 
+<td>Procesador:</td>
+<td>AMD Ryzen 3 5300U with Radeon Graphics, 2.60 GHz</td>
+</table>
+<tr> 
+<td>RAM instalada:</td>
+<td>8,00 GB (5,86 GB usable)</td>
+</table>
+<tr> 
+<td>Identificador del dispositivo:</td>
+<td>1D259B27-7E03-44AF-BB4D-98D850BBFAF5</td>
+</table>
+<tr> 
+<td>Id del producto:</td>
+<td>00327-31101-36014-AAOEM</td>
+</table>
+<tr> 
+<td>Tipo de sistema:</td>
+<td>Sistema operativo de 64 bits, procesador basado en x64</td>
+</table>
+ 
